@@ -22,3 +22,5 @@ I worked closely with engineers on the ground floor to ensure that all frontend 
 <br>
 ## Software Engineer: Concept Systems Inc - Albany Oregon (May 2021 - August 2021)
 At Concept Systems I worked on an emerging product called LabDash whose function was to track COVID-19 cases. I worked on a LAMP stack to build, test, and deploy new features and bug fixes. I regularly met with stakeholders to understand their needs in building new functionality for LabDash. I assited in the planning and execution of migrating their sourcecode to Git. I also provided assistance in cleaning their legacy code to be more readable and functional.
+<br>
+<br>
