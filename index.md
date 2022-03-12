@@ -1,8 +1,15 @@
 ## Welcome to Jason Shirley's github
 
-#Intro
+# Intro
 
-Greetings! My name is Jason Shirley. I'm a hard working, passionate, and fast learning technology enthusiest.
+Greetings! My name is Jason Shirley. I'm a hard working, passionate, and fast learning technology enthusiest. I graduated from Eastern Oregon University with my BS in Computer Science in 2019. Since then, I have been on a fun and fast paced adventure leaning new technology and providing my skill set to various jobs.
+
+# Work History
+
+## Basic Soft (2019-2020)
+My first job out of college was with Basic Soft. I worked as a full stack developer developing new features and fixes for their flagship product, BasicSafe. Out of the gate I had to learn a brand-new technology stack that I wasn't familiar with, the LAMP (Linux, Apache, MySQL, and PHP) stack. From day one I dug in and worked fast to learn a product that was new to me while learning to code with my new technology stack.
+One of the most important skills I learned from this job was effective communication. I had to learn to adapt my communication to explain complex concepts and ideas to clients in a manner that would make sense to them.  My job was customer facing at times, meaning that I would have to communicate with stakeholders about their projects that they paid for. It was my duty to learn how to communicate to individuals of all skill levels so that they could feel confident in the work that I would do.
+
 
 ### Markdown
 
