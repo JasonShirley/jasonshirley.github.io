@@ -2,7 +2,7 @@
 
 # Intro
 
-Greetings! My name is Jason Shirley. I'm a hard working, passionate, and fast learning technology enthusiest. I graduated from Eastern Oregon University with my BS in Computer Science in 2019. Since then, I have been on a fun and fast paced adventure leaning new technology and providing my skill set to various jobs.
+Greetings! My name is Jason Shirley. I am a hard working, passionate, and fast learning technology enthusiest. I have multiple years experience in Web Devlopment and other aspects of IT. Please feel free to view my main repository at [github.com/jasonshirley](github.com/jasonshirley)
 
 # Work History
 
