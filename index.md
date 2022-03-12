@@ -2,7 +2,7 @@
 
 # Intro
 
-Greetings! My name is Jason Shirley. I am a hard working, passionate, and fast learning technology enthusiest. I have multiple years experience in Web Devlopment and other aspects of IT. Please feel free to view my main repository at [github.com/jasonshirley](github.com/jasonshirley)
+Greetings! My name is Jason Shirley. I am a hard working, passionate, and fast learning technology enthusiest. I have multiple years experience in Web Devlopment and other aspects of IT. Please feel free to view my main repository at [github.com/jasonshirley](https://github.com/jasonshirley)
 
 # Work History
 
